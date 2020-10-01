@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mlqs.live</id>
+    <id>https://mulingqs.github.io/MuLingQS</id>
     <title>青山木林</title>
-    <updated>2020-10-01T09:12:04.725Z</updated>
+    <updated>2020-10-01T09:17:40.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://mlqs.live"/>
-    <link rel="self" href="https://mlqs.live/atom.xml"/>
+    <link rel="alternate" href="https://mulingqs.github.io/MuLingQS"/>
+    <link rel="self" href="https://mulingqs.github.io/MuLingQS/atom.xml"/>
     <subtitle>青山木林 慕凌卿山</subtitle>
-    <logo>https://mlqs.live/images/avatar.png</logo>
-    <icon>https://mlqs.live/favicon.ico</icon>
+    <logo>https://mulingqs.github.io/MuLingQS/images/avatar.png</logo>
+    <icon>https://mulingqs.github.io/MuLingQS/favicon.ico</icon>
     <rights>All rights reserved 2020, 青山木林</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://mlqs.live/post/hello-gridea/</id>
-        <link href="https://mlqs.live/post/hello-gridea/">
+        <id>https://mulingqs.github.io/MuLingQS/post/hello-gridea/</id>
+        <link href="https://mulingqs.github.io/MuLingQS/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
